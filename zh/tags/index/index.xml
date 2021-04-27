@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on Hugo Zzo Theme</title>
+    <title>index on 梓鑫的博客</title>
     <link>http://blacklzx.github.io/zh/tags/index/</link>
-    <description>Recent content in index on Hugo Zzo Theme</description>
+    <description>Recent content in index on 梓鑫的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>blacklzx@qq.com (李梓鑫)</managingEditor>
+    <webMaster>blacklzx@qq.com (李梓鑫)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
         <atom:link href="http://blacklzx.github.io/zh/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
         <title>Posts</title>
         <link>http://blacklzx.github.io/zh/posts/_index.ko/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>blacklzx@qq.com (李梓鑫)</author>
         
         <guid>http://blacklzx.github.io/zh/posts/_index.ko/</guid>
         <description></description>
